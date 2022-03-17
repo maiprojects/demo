@@ -1,14 +1,1006 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "FacetResults": [
+        {
+            "DocumentAttributeKey": "category",
+            "DocumentAttributeValueCountPairs": [
+                {
+                    "Count": 7,
+                    "DocumentAttributeValue": {
+                        "StringValue": "Lan Core and Distribution"
+                    }
+                },
+                {
+                    "Count": 5,
+                    "DocumentAttributeValue": {
+                        "StringValue": "Lan Access"
+                    }
+                },
+                {
+                    "Count": 5,
+                    "DocumentAttributeValue": {
+                        "StringValue": "Access point"
+                    }
+                },
+                {
+                    "Count": 4,
+                    "DocumentAttributeValue": {
+                        "StringValue": " Wireless Controller"
+                    }
+                },
+                {
+                    "Count": 4,
+                    "DocumentAttributeValue": {
+                        "StringValue": "Lan Compact"
+                    }
+                },
+                {
+                    "Count": 3,
+                    "DocumentAttributeValue": {
+                        "StringValue": " Install Guide"
+                    }
+                },
+                {
+                    "Count": 2,
+                    "DocumentAttributeValue": {
+                        "StringValue": " Outdoor Access point"
+                    }
+                },
+                {
+                    "Count": 1,
+                    "DocumentAttributeValue": {
+                        "StringValue": " Wireless"
+                    }
+                },
+                {
+                    "Count": 1,
+                    "DocumentAttributeValue": {
+                        "StringValue": " Disinfecting liquids"
+                    }
+                },
+                {
+                    "Count": 1,
+                    "DocumentAttributeValue": {
+                        "StringValue": " Deployment Guide"
+                    }
+                }
+            ],
+            "DocumentAttributeValueType": "STRING_VALUE"
+        },
+        {
+            "DocumentAttributeKey": "Series",
+            "DocumentAttributeValueCountPairs": [
+                {
+                    "Count": 4,
+                    "DocumentAttributeValue": {
+                        "StringValue": "9400"
+                    }
+                },
+                {
+                    "Count": 2,
+                    "DocumentAttributeValue": {
+                        "StringValue": "9300"
+                    }
+                },
+                {
+                    "Count": 2,
+                    "DocumentAttributeValue": {
+                        "StringValue": "9200"
+                    }
+                },
+                {
+                    "Count": 1,
+                    "DocumentAttributeValue": {
+                        "StringValue": "Building"
+                    }
+                },
+                {
+                    "Count": 1,
+                    "DocumentAttributeValue": {
+                        "StringValue": "Aironet 1540"
+                    }
+                },
+                {
+                    "Count": 1,
+                    "DocumentAttributeValue": {
+                        "StringValue": "9500"
+                    }
+                },
+                {
+                    "Count": 1,
+                    "DocumentAttributeValue": {
+                        "StringValue": "9600"
+                    }
+                },
+                {
+                    "Count": 1,
+                    "DocumentAttributeValue": {
+                        "StringValue": "1000"
+                    }
+                },
+                {
+                    "Count": 1,
+                    "DocumentAttributeValue": {
+                        "StringValue": "3560"
+                    }
+                },
+                {
+                    "Count": 1,
+                    "DocumentAttributeValue": {
+                        "StringValue": "Aironet 1560"
+                    }
+                }
+            ],
+            "DocumentAttributeValueType": "STRING_VALUE"
+        }
+    ],
+    "QueryId": "85199cc0-af03-4a6c-a045-65a36b4dac12",
+    "ResultItems": [
+        {
+            "AdditionalAttributes": [
+                {
+                    "Key": "AnswerText",
+                    "Value": {
+                        "TextWithHighlightsValue": {
+                            "Highlights": [
+                                {
+                                    "BeginOffset": 32,
+                                    "EndOffset": 39,
+                                    "TopAnswer": false,
+                                    "Type": "STANDARD"
+                                },
+                                {
+                                    "BeginOffset": 81,
+                                    "EndOffset": 89,
+                                    "TopAnswer": false,
+                                    "Type": "STANDARD"
+                                },
+                                {
+                                    "BeginOffset": 90,
+                                    "EndOffset": 94,
+                                    "TopAnswer": false,
+                                    "Type": "STANDARD"
+                                },
+                                {
+                                    "BeginOffset": 102,
+                                    "EndOffset": 110,
+                                    "TopAnswer": false,
+                                    "Type": "STANDARD"
+                                },
+                                {
+                                    "BeginOffset": 120,
+                                    "EndOffset": 129,
+                                    "TopAnswer": false,
+                                    "Type": "STANDARD"
+                                },
+                                {
+                                    "BeginOffset": 380,
+                                    "EndOffset": 388,
+                                    "TopAnswer": false,
+                                    "Type": "STANDARD"
+                                },
+                                {
+                                    "BeginOffset": 389,
+                                    "EndOffset": 393,
+                                    "TopAnswer": false,
+                                    "Type": "STANDARD"
+                                },
+                                {
+                                    "BeginOffset": 401,
+                                    "EndOffset": 409,
+                                    "TopAnswer": false,
+                                    "Type": "STANDARD"
+                                }
+                            ],
+                            "Text": "The architecture let you easily upgrade all Ethernet line cards on \n\n\nyour Cisco Catalyst 9400 Series switches to newer switching functions by adding a new supervisor engine. The \n\n\nsimple design of the line cards results in a very high Mean Time Between Failures (MTBF), helping ensure high \n\n\navailability for a single connection to an end user. \n\n\nModular versatility \n\n\nCisco Catalyst 9400 Series switches are a centralized architecture that is designed to provide dedicated wire- \n\n\nspeed bandwidth to each line card slot within the chassis. Each line card has a dedicated bandwidth to the \n\n\nsupervisor engine for packet processing."
+                        }
+                    },
+                    "ValueType": "TEXT_WITH_HIGHLIGHTS_VALUE"
+                }
+            ],
+            "DocumentAttributes": [
+                {
+                    "Key": "_source_uri",
+                    "Value": {
+                        "StringValue": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9400-series-switches/nb-06-cat9400-series-line-data-sheet-cte-en.pdf"
+                    }
+                },
+                {
+                    "Key": "_excerpt_page_number",
+                    "Value": {
+                        "LongValue": 15
+                    }
+                }
+            ],
+            "DocumentExcerpt": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 0,
+                        "EndOffset": 300,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "The architecture let you easily upgrade all Ethernet line cards on \n\n\nyour Cisco Catalyst 9400 Series switches to newer switching functions by adding a new supervisor engine. The \n\n\nsimple design of the line cards results in a very high Mean Time Between Failures (MTBF), helping ensure high \n\n\navail"
+            },
+            "DocumentId": "nb-06-cat9400-series-line-data-sheet-cte-en.pdf",
+            "DocumentTitle": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 6,
+                        "EndOffset": 14,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 15,
+                        "EndOffset": 19,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "Cisco Catalyst 9400 Series Switch Line Card"
+            },
+            "DocumentURI": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9400-series-switches/nb-06-cat9400-series-line-data-sheet-cte-en.pdf",
+            "FeedbackToken": "AYADeO1nnHFRP8xbwjvI-SbxnFAAXwABABVhd3MtY3J5cHRvLXB1YmxpYy1rZXkAREEvMmJIOVZ6NVE3R0NNaTBoRGZIM0JndkJGd3RlVlI5YmlhVHNHN1JrdTlOV3gzUk44R2wxd2V1K0szWm5yTGpnQT09AAEAB2F3cy1rbXMAS2Fybjphd3M6a21zOnVzLXdlc3QtMjoxNDk0MDA5NDM5NTk6a2V5LzUyN2YwMjRhLTUyMDktNDI4NC1iOTYwLTJhMjYxMzQxNWNkNgC4AQIBAHhqM9DCcEDFf2jxMJAnxR-EnHviOG8et-197ZTI2QllnQFWd00gBjDEunu3W7V5eAH5AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2GCLOCr59B3zFGI6AgEQgDtdVkjSBIcEwfFIa7WtagQVrB_7Q3VHvb-S50o5ehCsknMNUo8jmZ3PzHcT7nP-hpCv6G9DMErhRoxXKwIAAAAADAAAEAAAAAAAAAAAAAAAAADnM7wMLNNf9N-gH8Q37RgC_____wAAAAEAAAAAAAAAAAAAAAEAAAF2WiRdWMuHWptOdiu6WV7LDpgmlmfkK3eMVdoUoTbL7Q91h7WmPWEqPe8mlRsP1wpiPRDm7NtC0R8wcXJrKyuXP_6gH1fZrfdtgyWKWPBN8HbAqnI8dPvmgV0T0o2u66y3HUyRo8hsXOyx4woqfVt_eo8Nx0NPQoLP7psyidm14TjolAantdjQZXyLLXS-Vh7SONxpl9fSUmI4dvhrzl7nt1VPxg4Esh01ZYz_-zCm0NpGG33_QwZGJuND3nAWJm3RK8PvDWaTOt_ZrLHXLt2AbOLISHxDglBVUpRMpsLuZVuA1HjoqjBooSSXsqL5eWa2HRfx3bAj1TmFmoUikqR6aWCUFzfjeimJQl9IDjTnUL5LCoMk2Nl9RtNDOHAZ7v8oneD2XIukXjDnHOQqSAGZHuGiihdoil8gwFIl-KNdvD32aEeW87fdfb05AdAvftlLVsYAgSXTEMPLSCStHnqA0t4AmZ5UxiIMJusJWztZhtIEk-91pjXDV21jZujcog2Q2IAevjEVAGcwZQIxAMD0suBPdS11zgqNvekq-22kqRbjvYTlVCQar2fldRzttbPobSqQUaS2h93OdNNdHgIwSgKtxX5Idx4MTOCC4jK_9BIQ9ZHNiQITh-e-ECS3DvyMyR5C9yElWvxdPfoKa8u6.85199cc0-af03-4a6c-a045-65a36b4dac12-22e21d13-6c68-4226-a339-376daa9b5f9e",
+            "Id": "85199cc0-af03-4a6c-a045-65a36b4dac12-22e21d13-6c68-4226-a339-376daa9b5f9e",
+            "ScoreAttributes": {
+                "ScoreConfidence": "HIGH"
+            },
+            "Type": "ANSWER"
+        },
+        {
+            "AdditionalAttributes": [],
+            "DocumentAttributes": [
+                {
+                    "Key": "sf_LastModifiedById",
+                    "Value": {
+                        "StringValue": "0055f000005t4A8AAI"
+                    }
+                },
+                {
+                    "Key": "sf_IsEscalated",
+                    "Value": {
+                        "StringValue": "false"
+                    }
+                },
+                {
+                    "Key": "sf_IsClosed",
+                    "Value": {
+                        "StringValue": "false"
+                    }
+                },
+                {
+                    "Key": "_source_uri",
+                    "Value": {
+                        "StringValue": "https://engage360datasource-dev-ed.my.salesforce.com/5005f00000Aed1VAAR"
+                    }
+                },
+                {
+                    "Key": "sf_Status",
+                    "Value": {
+                        "StringValue": "New"
+                    }
+                },
+                {
+                    "Key": "sf_CaseNumber",
+                    "Value": {
+                        "StringValue": "00001047"
+                    }
+                },
+                {
+                    "Key": "sf_Priority",
+                    "Value": {
+                        "StringValue": "Medium"
+                    }
+                },
+                {
+                    "Key": "sf_Owner_Name",
+                    "Value": {
+                        "StringValue": "Mark Russell"
+                    }
+                },
+                {
+                    "Key": "sf_CreatedBy_Name",
+                    "Value": {
+                        "StringValue": "Mark Russell"
+                    }
+                },
+                {
+                    "Key": "sf_LastModifiedBy_Name",
+                    "Value": {
+                        "StringValue": "Mark Russell"
+                    }
+                },
+                {
+                    "Key": "sf_Origin",
+                    "Value": {
+                        "StringValue": "Web"
+                    }
+                },
+                {
+                    "Key": "sf_OwnerId",
+                    "Value": {
+                        "StringValue": "0055f000005t4A8AAI"
+                    }
+                }
+            ],
+            "DocumentExcerpt": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 3,
+                        "EndOffset": 10,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 11,
+                        "EndOffset": 15,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 19,
+                        "EndOffset": 27,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 28,
+                        "EndOffset": 32,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 33,
+                        "EndOffset": 41,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "...upgrade done to Catalyst 9400 switches..."
+            },
+            "DocumentId": "https://engage360datasource-dev-ed.my.salesforce.com/5005f00000Aed1VAAR",
+            "DocumentTitle": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 0,
+                        "EndOffset": 7,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 8,
+                        "EndOffset": 12,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 16,
+                        "EndOffset": 24,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 25,
+                        "EndOffset": 29,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 30,
+                        "EndOffset": 38,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "upgrade done to Catalyst 9400 switches"
+            },
+            "DocumentURI": "https://engage360datasource-dev-ed.my.salesforce.com/5005f00000Aed1VAAR",
+            "FeedbackToken": "AYADeO1nnHFRP8xbwjvI-SbxnFAAXwABABVhd3MtY3J5cHRvLXB1YmxpYy1rZXkAREEvMmJIOVZ6NVE3R0NNaTBoRGZIM0JndkJGd3RlVlI5YmlhVHNHN1JrdTlOV3gzUk44R2wxd2V1K0szWm5yTGpnQT09AAEAB2F3cy1rbXMAS2Fybjphd3M6a21zOnVzLXdlc3QtMjoxNDk0MDA5NDM5NTk6a2V5LzUyN2YwMjRhLTUyMDktNDI4NC1iOTYwLTJhMjYxMzQxNWNkNgC4AQIBAHhqM9DCcEDFf2jxMJAnxR-EnHviOG8et-197ZTI2QllnQFWd00gBjDEunu3W7V5eAH5AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2GCLOCr59B3zFGI6AgEQgDtdVkjSBIcEwfFIa7WtagQVrB_7Q3VHvb-S50o5ehCsknMNUo8jmZ3PzHcT7nP-hpCv6G9DMErhRoxXKwIAAAAADAAAEAAAAAAAAAAAAAAAAADnM7wMLNNf9N-gH8Q37RgC_____wAAAAEAAAAAAAAAAAAAAAEAAAF2WiRdWMuHWptOdiu6WV7LDpgmlmfkK3eMVdoUoTbL7Q91h7WmPWEqPe8mlRsP1wpiPRDm7NtC0R8wcXJrKyuXP_6gH1fZrfdtgyWKWPBN8HbAqnI8dPvmgV0T0o2u66y3HUyRo8hsXOyx4woqfVt_eo8Nx0NPQoLP7psyidm14TjolAantdjQZXyLLXS-Vh7SONxpl9fSUmI4dvhrzl7nt1VPxg4Esh01ZYz_-zCm0NpGG33_QwZGJuND3nAWJm3RK8PvDWaTOt_ZrLHXLt2AbOLISHxDglBVUpRMpsLuZVuA1HjoqjBooSSXsqL5eWa2HRfx3bAj1TmFmoUikqR6aWCUFzfjeimJQl9IDjTnUL5LCoMk2Nl9RtNDOHAZ7v8oneD2XIukXjDnHOQqSAGZHuGiihdoil8gwFIl-KNdvD32aEeW87fdfb05AdAvftlLVsYAgSXTEMPLSCStHnqA0t4AmZ5UxiIMJusJWztZhtIEk-91pjXDV21jZujcog2Q2IAevjEVAGcwZQIxAMD0suBPdS11zgqNvekq-22kqRbjvYTlVCQar2fldRzttbPobSqQUaS2h93OdNNdHgIwSgKtxX5Idx4MTOCC4jK_9BIQ9ZHNiQITh-e-ECS3DvyMyR5C9yElWvxdPfoKa8u6.85199cc0-af03-4a6c-a045-65a36b4dac12-7cb4f3aa-8889-42bd-8e62-3c1d3b11e0df",
+            "Id": "85199cc0-af03-4a6c-a045-65a36b4dac12-7cb4f3aa-8889-42bd-8e62-3c1d3b11e0df",
+            "ScoreAttributes": {
+                "ScoreConfidence": "HIGH"
+            },
+            "Type": "DOCUMENT"
+        },
+        {
+            "AdditionalAttributes": [],
+            "DocumentAttributes": [
+                {
+                    "Key": "_source_uri",
+                    "Value": {
+                        "StringValue": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9400-series-switches/nb-06-upgrading-cat-9400-fc-cte-en.pdf"
+                    }
+                },
+                {
+                    "Key": "_excerpt_page_number",
+                    "Value": {
+                        "LongValue": 1
+                    }
+                }
+            ],
+            "DocumentExcerpt": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 67,
+                        "EndOffset": 76,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 87,
+                        "EndOffset": 95,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 96,
+                        "EndOffset": 100,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 108,
+                        "EndOffset": 116,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 133,
+                        "EndOffset": 142,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 227,
+                        "EndOffset": 235,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "...Cisco and/or its affiliates. All rights reserved.\n\n\nBenefits of Upgrading to Cisco \nCatalyst 9400 Series Switches\n\n\nFinance your \nswitching migration \nwith Cisco Capital\nLet financing from Cisco Capital make \nmigrating your switches and accelerating \nyour digital transformation even easier. \nCisco..."
+            },
+            "DocumentId": "nb-06-upgrading-cat-9400-fc-cte-en.pdf",
+            "DocumentTitle": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 31,
+                        "EndOffset": 39,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 40,
+                        "EndOffset": 44,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 52,
+                        "EndOffset": 60,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "Benefits of Upgrading to Cisco Catalyst 9400 Series Switches"
+            },
+            "DocumentURI": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9400-series-switches/nb-06-upgrading-cat-9400-fc-cte-en.pdf",
+            "FeedbackToken": "AYADeO1nnHFRP8xbwjvI-SbxnFAAXwABABVhd3MtY3J5cHRvLXB1YmxpYy1rZXkAREEvMmJIOVZ6NVE3R0NNaTBoRGZIM0JndkJGd3RlVlI5YmlhVHNHN1JrdTlOV3gzUk44R2wxd2V1K0szWm5yTGpnQT09AAEAB2F3cy1rbXMAS2Fybjphd3M6a21zOnVzLXdlc3QtMjoxNDk0MDA5NDM5NTk6a2V5LzUyN2YwMjRhLTUyMDktNDI4NC1iOTYwLTJhMjYxMzQxNWNkNgC4AQIBAHhqM9DCcEDFf2jxMJAnxR-EnHviOG8et-197ZTI2QllnQFWd00gBjDEunu3W7V5eAH5AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2GCLOCr59B3zFGI6AgEQgDtdVkjSBIcEwfFIa7WtagQVrB_7Q3VHvb-S50o5ehCsknMNUo8jmZ3PzHcT7nP-hpCv6G9DMErhRoxXKwIAAAAADAAAEAAAAAAAAAAAAAAAAADnM7wMLNNf9N-gH8Q37RgC_____wAAAAEAAAAAAAAAAAAAAAEAAAF2WiRdWMuHWptOdiu6WV7LDpgmlmfkK3eMVdoUoTbL7Q91h7WmPWEqPe8mlRsP1wpiPRDm7NtC0R8wcXJrKyuXP_6gH1fZrfdtgyWKWPBN8HbAqnI8dPvmgV0T0o2u66y3HUyRo8hsXOyx4woqfVt_eo8Nx0NPQoLP7psyidm14TjolAantdjQZXyLLXS-Vh7SONxpl9fSUmI4dvhrzl7nt1VPxg4Esh01ZYz_-zCm0NpGG33_QwZGJuND3nAWJm3RK8PvDWaTOt_ZrLHXLt2AbOLISHxDglBVUpRMpsLuZVuA1HjoqjBooSSXsqL5eWa2HRfx3bAj1TmFmoUikqR6aWCUFzfjeimJQl9IDjTnUL5LCoMk2Nl9RtNDOHAZ7v8oneD2XIukXjDnHOQqSAGZHuGiihdoil8gwFIl-KNdvD32aEeW87fdfb05AdAvftlLVsYAgSXTEMPLSCStHnqA0t4AmZ5UxiIMJusJWztZhtIEk-91pjXDV21jZujcog2Q2IAevjEVAGcwZQIxAMD0suBPdS11zgqNvekq-22kqRbjvYTlVCQar2fldRzttbPobSqQUaS2h93OdNNdHgIwSgKtxX5Idx4MTOCC4jK_9BIQ9ZHNiQITh-e-ECS3DvyMyR5C9yElWvxdPfoKa8u6.85199cc0-af03-4a6c-a045-65a36b4dac12-aa116ce1-2bb8-44b2-b301-6607ad90dd3c",
+            "Id": "85199cc0-af03-4a6c-a045-65a36b4dac12-aa116ce1-2bb8-44b2-b301-6607ad90dd3c",
+            "ScoreAttributes": {
+                "ScoreConfidence": "HIGH"
+            },
+            "Type": "DOCUMENT"
+        },
+        {
+            "AdditionalAttributes": [],
+            "DocumentAttributes": [
+                {
+                    "Key": "_source_uri",
+                    "Value": {
+                        "StringValue": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-upgrading-cat-9200-fc-cte-en.pdf"
+                    }
+                },
+                {
+                    "Key": "_excerpt_page_number",
+                    "Value": {
+                        "LongValue": 1
+                    }
+                }
+            ],
+            "DocumentExcerpt": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 85,
+                        "EndOffset": 93,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 106,
+                        "EndOffset": 114,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 116,
+                        "EndOffset": 124,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 137,
+                        "EndOffset": 145,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 177,
+                        "EndOffset": 186,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "...a \nbroader set of deployments. Compared to the scale and feature richness the \nof Catalyst 9300 Series switches, Catalyst 9200 Series switches focus on \noffering right-sized switching for simple branch deployments..."
+            },
+            "DocumentId": "nb-06-upgrading-cat-9200-fc-cte-en.pdf",
+            "DocumentTitle": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 31,
+                        "EndOffset": 39,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 52,
+                        "EndOffset": 60,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "Benefits of Upgrading to Cisco Catalyst 9200 Series Switches"
+            },
+            "DocumentURI": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9200-series-switches/nb-06-upgrading-cat-9200-fc-cte-en.pdf",
+            "FeedbackToken": "AYADeO1nnHFRP8xbwjvI-SbxnFAAXwABABVhd3MtY3J5cHRvLXB1YmxpYy1rZXkAREEvMmJIOVZ6NVE3R0NNaTBoRGZIM0JndkJGd3RlVlI5YmlhVHNHN1JrdTlOV3gzUk44R2wxd2V1K0szWm5yTGpnQT09AAEAB2F3cy1rbXMAS2Fybjphd3M6a21zOnVzLXdlc3QtMjoxNDk0MDA5NDM5NTk6a2V5LzUyN2YwMjRhLTUyMDktNDI4NC1iOTYwLTJhMjYxMzQxNWNkNgC4AQIBAHhqM9DCcEDFf2jxMJAnxR-EnHviOG8et-197ZTI2QllnQFWd00gBjDEunu3W7V5eAH5AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2GCLOCr59B3zFGI6AgEQgDtdVkjSBIcEwfFIa7WtagQVrB_7Q3VHvb-S50o5ehCsknMNUo8jmZ3PzHcT7nP-hpCv6G9DMErhRoxXKwIAAAAADAAAEAAAAAAAAAAAAAAAAADnM7wMLNNf9N-gH8Q37RgC_____wAAAAEAAAAAAAAAAAAAAAEAAAF2WiRdWMuHWptOdiu6WV7LDpgmlmfkK3eMVdoUoTbL7Q91h7WmPWEqPe8mlRsP1wpiPRDm7NtC0R8wcXJrKyuXP_6gH1fZrfdtgyWKWPBN8HbAqnI8dPvmgV0T0o2u66y3HUyRo8hsXOyx4woqfVt_eo8Nx0NPQoLP7psyidm14TjolAantdjQZXyLLXS-Vh7SONxpl9fSUmI4dvhrzl7nt1VPxg4Esh01ZYz_-zCm0NpGG33_QwZGJuND3nAWJm3RK8PvDWaTOt_ZrLHXLt2AbOLISHxDglBVUpRMpsLuZVuA1HjoqjBooSSXsqL5eWa2HRfx3bAj1TmFmoUikqR6aWCUFzfjeimJQl9IDjTnUL5LCoMk2Nl9RtNDOHAZ7v8oneD2XIukXjDnHOQqSAGZHuGiihdoil8gwFIl-KNdvD32aEeW87fdfb05AdAvftlLVsYAgSXTEMPLSCStHnqA0t4AmZ5UxiIMJusJWztZhtIEk-91pjXDV21jZujcog2Q2IAevjEVAGcwZQIxAMD0suBPdS11zgqNvekq-22kqRbjvYTlVCQar2fldRzttbPobSqQUaS2h93OdNNdHgIwSgKtxX5Idx4MTOCC4jK_9BIQ9ZHNiQITh-e-ECS3DvyMyR5C9yElWvxdPfoKa8u6.85199cc0-af03-4a6c-a045-65a36b4dac12-ca2aba7c-4cee-421f-8003-2c30c2911033",
+            "Id": "85199cc0-af03-4a6c-a045-65a36b4dac12-ca2aba7c-4cee-421f-8003-2c30c2911033",
+            "ScoreAttributes": {
+                "ScoreConfidence": "HIGH"
+            },
+            "Type": "DOCUMENT"
+        },
+        {
+            "AdditionalAttributes": [],
+            "DocumentAttributes": [
+                {
+                    "Key": "_source_uri",
+                    "Value": {
+                        "StringValue": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9400-series-switches/nb-06-cat9400-series-line-data-sheet-cte-en.pdf"
+                    }
+                },
+                {
+                    "Key": "_excerpt_page_number",
+                    "Value": {
+                        "LongValue": 15
+                    }
+                }
+            ],
+            "DocumentExcerpt": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 35,
+                        "EndOffset": 42,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 84,
+                        "EndOffset": 92,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 93,
+                        "EndOffset": 97,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 105,
+                        "EndOffset": 113,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 123,
+                        "EndOffset": 132,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "...The architecture let you easily upgrade all Ethernet line cards on \n\n\nyour Cisco Catalyst 9400 Series switches to newer switching functions by adding a new supervisor engine. The \n\n\nsimple design of the line cards results in a..."
+            },
+            "DocumentId": "nb-06-cat9400-series-line-data-sheet-cte-en.pdf",
+            "DocumentTitle": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 6,
+                        "EndOffset": 14,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 15,
+                        "EndOffset": 19,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "Cisco Catalyst 9400 Series Switch Line Card"
+            },
+            "DocumentURI": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9400-series-switches/nb-06-cat9400-series-line-data-sheet-cte-en.pdf",
+            "FeedbackToken": "AYADeO1nnHFRP8xbwjvI-SbxnFAAXwABABVhd3MtY3J5cHRvLXB1YmxpYy1rZXkAREEvMmJIOVZ6NVE3R0NNaTBoRGZIM0JndkJGd3RlVlI5YmlhVHNHN1JrdTlOV3gzUk44R2wxd2V1K0szWm5yTGpnQT09AAEAB2F3cy1rbXMAS2Fybjphd3M6a21zOnVzLXdlc3QtMjoxNDk0MDA5NDM5NTk6a2V5LzUyN2YwMjRhLTUyMDktNDI4NC1iOTYwLTJhMjYxMzQxNWNkNgC4AQIBAHhqM9DCcEDFf2jxMJAnxR-EnHviOG8et-197ZTI2QllnQFWd00gBjDEunu3W7V5eAH5AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2GCLOCr59B3zFGI6AgEQgDtdVkjSBIcEwfFIa7WtagQVrB_7Q3VHvb-S50o5ehCsknMNUo8jmZ3PzHcT7nP-hpCv6G9DMErhRoxXKwIAAAAADAAAEAAAAAAAAAAAAAAAAADnM7wMLNNf9N-gH8Q37RgC_____wAAAAEAAAAAAAAAAAAAAAEAAAF2WiRdWMuHWptOdiu6WV7LDpgmlmfkK3eMVdoUoTbL7Q91h7WmPWEqPe8mlRsP1wpiPRDm7NtC0R8wcXJrKyuXP_6gH1fZrfdtgyWKWPBN8HbAqnI8dPvmgV0T0o2u66y3HUyRo8hsXOyx4woqfVt_eo8Nx0NPQoLP7psyidm14TjolAantdjQZXyLLXS-Vh7SONxpl9fSUmI4dvhrzl7nt1VPxg4Esh01ZYz_-zCm0NpGG33_QwZGJuND3nAWJm3RK8PvDWaTOt_ZrLHXLt2AbOLISHxDglBVUpRMpsLuZVuA1HjoqjBooSSXsqL5eWa2HRfx3bAj1TmFmoUikqR6aWCUFzfjeimJQl9IDjTnUL5LCoMk2Nl9RtNDOHAZ7v8oneD2XIukXjDnHOQqSAGZHuGiihdoil8gwFIl-KNdvD32aEeW87fdfb05AdAvftlLVsYAgSXTEMPLSCStHnqA0t4AmZ5UxiIMJusJWztZhtIEk-91pjXDV21jZujcog2Q2IAevjEVAGcwZQIxAMD0suBPdS11zgqNvekq-22kqRbjvYTlVCQar2fldRzttbPobSqQUaS2h93OdNNdHgIwSgKtxX5Idx4MTOCC4jK_9BIQ9ZHNiQITh-e-ECS3DvyMyR5C9yElWvxdPfoKa8u6.85199cc0-af03-4a6c-a045-65a36b4dac12-b133af38-e5d2-45f9-9e2e-48fc269116cb",
+            "Id": "85199cc0-af03-4a6c-a045-65a36b4dac12-b133af38-e5d2-45f9-9e2e-48fc269116cb",
+            "ScoreAttributes": {
+                "ScoreConfidence": "HIGH"
+            },
+            "Type": "DOCUMENT"
+        },
+        {
+            "AdditionalAttributes": [],
+            "DocumentAttributes": [
+                {
+                    "Key": "_source_uri",
+                    "Value": {
+                        "StringValue": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/nb-06-upgrading-cat-9300-fc-cte-en.pdf"
+                    }
+                },
+                {
+                    "Key": "_excerpt_page_number",
+                    "Value": {
+                        "LongValue": 3
+                    }
+                }
+            ],
+            "DocumentExcerpt": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 132,
+                        "EndOffset": 140,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 149,
+                        "EndOffset": 153,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "...End-to-end quality of experience6 – – –Br\nin\n\n\ng \nYo\n\n\nur\n O\n\n\nw\nn \n\n\nD\nev\n\n\nic\ne \n\n\n(B\nYO\n\n\nD\n) a\n\n\nnd\n m\n\n\nob\nili\n\n\nty\n\n\n*Each Catalyst 9300 or 9400 Cisco DNA Advantage or Premier subscription entitles the customer to run the equivalent of one ThousandEyes network or web test every 5..."
+            },
+            "DocumentId": "nb-06-upgrading-cat-9300-fc-cte-en.pdf",
+            "DocumentTitle": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 31,
+                        "EndOffset": 39,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 52,
+                        "EndOffset": 60,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "Benefits of Upgrading to Cisco Catalyst 9300 Series Switches"
+            },
+            "DocumentURI": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/nb-06-upgrading-cat-9300-fc-cte-en.pdf",
+            "FeedbackToken": "AYADeO1nnHFRP8xbwjvI-SbxnFAAXwABABVhd3MtY3J5cHRvLXB1YmxpYy1rZXkAREEvMmJIOVZ6NVE3R0NNaTBoRGZIM0JndkJGd3RlVlI5YmlhVHNHN1JrdTlOV3gzUk44R2wxd2V1K0szWm5yTGpnQT09AAEAB2F3cy1rbXMAS2Fybjphd3M6a21zOnVzLXdlc3QtMjoxNDk0MDA5NDM5NTk6a2V5LzUyN2YwMjRhLTUyMDktNDI4NC1iOTYwLTJhMjYxMzQxNWNkNgC4AQIBAHhqM9DCcEDFf2jxMJAnxR-EnHviOG8et-197ZTI2QllnQFWd00gBjDEunu3W7V5eAH5AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2GCLOCr59B3zFGI6AgEQgDtdVkjSBIcEwfFIa7WtagQVrB_7Q3VHvb-S50o5ehCsknMNUo8jmZ3PzHcT7nP-hpCv6G9DMErhRoxXKwIAAAAADAAAEAAAAAAAAAAAAAAAAADnM7wMLNNf9N-gH8Q37RgC_____wAAAAEAAAAAAAAAAAAAAAEAAAF2WiRdWMuHWptOdiu6WV7LDpgmlmfkK3eMVdoUoTbL7Q91h7WmPWEqPe8mlRsP1wpiPRDm7NtC0R8wcXJrKyuXP_6gH1fZrfdtgyWKWPBN8HbAqnI8dPvmgV0T0o2u66y3HUyRo8hsXOyx4woqfVt_eo8Nx0NPQoLP7psyidm14TjolAantdjQZXyLLXS-Vh7SONxpl9fSUmI4dvhrzl7nt1VPxg4Esh01ZYz_-zCm0NpGG33_QwZGJuND3nAWJm3RK8PvDWaTOt_ZrLHXLt2AbOLISHxDglBVUpRMpsLuZVuA1HjoqjBooSSXsqL5eWa2HRfx3bAj1TmFmoUikqR6aWCUFzfjeimJQl9IDjTnUL5LCoMk2Nl9RtNDOHAZ7v8oneD2XIukXjDnHOQqSAGZHuGiihdoil8gwFIl-KNdvD32aEeW87fdfb05AdAvftlLVsYAgSXTEMPLSCStHnqA0t4AmZ5UxiIMJusJWztZhtIEk-91pjXDV21jZujcog2Q2IAevjEVAGcwZQIxAMD0suBPdS11zgqNvekq-22kqRbjvYTlVCQar2fldRzttbPobSqQUaS2h93OdNNdHgIwSgKtxX5Idx4MTOCC4jK_9BIQ9ZHNiQITh-e-ECS3DvyMyR5C9yElWvxdPfoKa8u6.85199cc0-af03-4a6c-a045-65a36b4dac12-d291c5a2-57b4-4200-8d53-5254b2225696",
+            "Id": "85199cc0-af03-4a6c-a045-65a36b4dac12-d291c5a2-57b4-4200-8d53-5254b2225696",
+            "ScoreAttributes": {
+                "ScoreConfidence": "MEDIUM"
+            },
+            "Type": "DOCUMENT"
+        },
+        {
+            "AdditionalAttributes": [],
+            "DocumentAttributes": [
+                {
+                    "Key": "_source_uri",
+                    "Value": {
+                        "StringValue": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9800-series-wireless-controllers/datasheet-c78-742434.pdf"
+                    }
+                },
+                {
+                    "Key": "_excerpt_page_number",
+                    "Value": {
+                        "LongValue": 11
+                    }
+                }
+            ],
+            "DocumentExcerpt": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 9,
+                        "EndOffset": 17,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 63,
+                        "EndOffset": 71,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 83,
+                        "EndOffset": 87,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 124,
+                        "EndOffset": 132,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 222,
+                        "EndOffset": 230,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "...point upgrades to simplify network operations. Multisite \n\n\nupgrades can now be done in stages, and access points can be upgraded intelligently without restarting \n\n\nthe entire network. \n\n\n● Standby Monitoring of Cisco Catalyst 9800 Wireless Controllers in HA mode enables monitoring the..."
+            },
+            "DocumentId": "datasheet-c78-742434.pdf",
+            "DocumentTitle": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 6,
+                        "EndOffset": 14,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "Cisco Catalyst 9800-L Wireless Controller "
+            },
+            "DocumentURI": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9800-series-wireless-controllers/datasheet-c78-742434.pdf",
+            "FeedbackToken": "AYADeO1nnHFRP8xbwjvI-SbxnFAAXwABABVhd3MtY3J5cHRvLXB1YmxpYy1rZXkAREEvMmJIOVZ6NVE3R0NNaTBoRGZIM0JndkJGd3RlVlI5YmlhVHNHN1JrdTlOV3gzUk44R2wxd2V1K0szWm5yTGpnQT09AAEAB2F3cy1rbXMAS2Fybjphd3M6a21zOnVzLXdlc3QtMjoxNDk0MDA5NDM5NTk6a2V5LzUyN2YwMjRhLTUyMDktNDI4NC1iOTYwLTJhMjYxMzQxNWNkNgC4AQIBAHhqM9DCcEDFf2jxMJAnxR-EnHviOG8et-197ZTI2QllnQFWd00gBjDEunu3W7V5eAH5AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2GCLOCr59B3zFGI6AgEQgDtdVkjSBIcEwfFIa7WtagQVrB_7Q3VHvb-S50o5ehCsknMNUo8jmZ3PzHcT7nP-hpCv6G9DMErhRoxXKwIAAAAADAAAEAAAAAAAAAAAAAAAAADnM7wMLNNf9N-gH8Q37RgC_____wAAAAEAAAAAAAAAAAAAAAEAAAF2WiRdWMuHWptOdiu6WV7LDpgmlmfkK3eMVdoUoTbL7Q91h7WmPWEqPe8mlRsP1wpiPRDm7NtC0R8wcXJrKyuXP_6gH1fZrfdtgyWKWPBN8HbAqnI8dPvmgV0T0o2u66y3HUyRo8hsXOyx4woqfVt_eo8Nx0NPQoLP7psyidm14TjolAantdjQZXyLLXS-Vh7SONxpl9fSUmI4dvhrzl7nt1VPxg4Esh01ZYz_-zCm0NpGG33_QwZGJuND3nAWJm3RK8PvDWaTOt_ZrLHXLt2AbOLISHxDglBVUpRMpsLuZVuA1HjoqjBooSSXsqL5eWa2HRfx3bAj1TmFmoUikqR6aWCUFzfjeimJQl9IDjTnUL5LCoMk2Nl9RtNDOHAZ7v8oneD2XIukXjDnHOQqSAGZHuGiihdoil8gwFIl-KNdvD32aEeW87fdfb05AdAvftlLVsYAgSXTEMPLSCStHnqA0t4AmZ5UxiIMJusJWztZhtIEk-91pjXDV21jZujcog2Q2IAevjEVAGcwZQIxAMD0suBPdS11zgqNvekq-22kqRbjvYTlVCQar2fldRzttbPobSqQUaS2h93OdNNdHgIwSgKtxX5Idx4MTOCC4jK_9BIQ9ZHNiQITh-e-ECS3DvyMyR5C9yElWvxdPfoKa8u6.85199cc0-af03-4a6c-a045-65a36b4dac12-46501976-f5a5-48bf-94da-504d64db0448",
+            "Id": "85199cc0-af03-4a6c-a045-65a36b4dac12-46501976-f5a5-48bf-94da-504d64db0448",
+            "ScoreAttributes": {
+                "ScoreConfidence": "MEDIUM"
+            },
+            "Type": "DOCUMENT"
+        },
+        {
+            "AdditionalAttributes": [],
+            "DocumentAttributes": [
+                {
+                    "Key": "_source_uri",
+                    "Value": {
+                        "StringValue": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-cx-series-switches/datasheet-c78-733229.pdf"
+                    }
+                },
+                {
+                    "Key": "_excerpt_page_number",
+                    "Value": {
+                        "LongValue": 9
+                    }
+                }
+            ],
+            "DocumentExcerpt": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 72,
+                        "EndOffset": 78,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 97,
+                        "EndOffset": 105,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 122,
+                        "EndOffset": 130,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 197,
+                        "EndOffset": 205,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 216,
+                        "EndOffset": 224,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "...reserved. This document is Cisco Public Information. Page 9 of 20 \n\n\nSwitch Software \n\n\nCisco Catalyst 3560-CX compact switches ship with the IP Base version of Cisco IOS® Software. The 3560-CX switches can be \n\n\nupgraded to use the IP Services version of IOS Software with a Right-To-Use (RTU..."
+            },
+            "DocumentId": "datasheet-c78-733229.pdf",
+            "DocumentTitle": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 6,
+                        "EndOffset": 14,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 50,
+                        "EndOffset": 58,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "Cisco Catalyst 3560-CX and 2960-CX Series Compact Switches"
+            },
+            "DocumentURI": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-3560-cx-series-switches/datasheet-c78-733229.pdf",
+            "FeedbackToken": "AYADeO1nnHFRP8xbwjvI-SbxnFAAXwABABVhd3MtY3J5cHRvLXB1YmxpYy1rZXkAREEvMmJIOVZ6NVE3R0NNaTBoRGZIM0JndkJGd3RlVlI5YmlhVHNHN1JrdTlOV3gzUk44R2wxd2V1K0szWm5yTGpnQT09AAEAB2F3cy1rbXMAS2Fybjphd3M6a21zOnVzLXdlc3QtMjoxNDk0MDA5NDM5NTk6a2V5LzUyN2YwMjRhLTUyMDktNDI4NC1iOTYwLTJhMjYxMzQxNWNkNgC4AQIBAHhqM9DCcEDFf2jxMJAnxR-EnHviOG8et-197ZTI2QllnQFWd00gBjDEunu3W7V5eAH5AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2GCLOCr59B3zFGI6AgEQgDtdVkjSBIcEwfFIa7WtagQVrB_7Q3VHvb-S50o5ehCsknMNUo8jmZ3PzHcT7nP-hpCv6G9DMErhRoxXKwIAAAAADAAAEAAAAAAAAAAAAAAAAADnM7wMLNNf9N-gH8Q37RgC_____wAAAAEAAAAAAAAAAAAAAAEAAAF2WiRdWMuHWptOdiu6WV7LDpgmlmfkK3eMVdoUoTbL7Q91h7WmPWEqPe8mlRsP1wpiPRDm7NtC0R8wcXJrKyuXP_6gH1fZrfdtgyWKWPBN8HbAqnI8dPvmgV0T0o2u66y3HUyRo8hsXOyx4woqfVt_eo8Nx0NPQoLP7psyidm14TjolAantdjQZXyLLXS-Vh7SONxpl9fSUmI4dvhrzl7nt1VPxg4Esh01ZYz_-zCm0NpGG33_QwZGJuND3nAWJm3RK8PvDWaTOt_ZrLHXLt2AbOLISHxDglBVUpRMpsLuZVuA1HjoqjBooSSXsqL5eWa2HRfx3bAj1TmFmoUikqR6aWCUFzfjeimJQl9IDjTnUL5LCoMk2Nl9RtNDOHAZ7v8oneD2XIukXjDnHOQqSAGZHuGiihdoil8gwFIl-KNdvD32aEeW87fdfb05AdAvftlLVsYAgSXTEMPLSCStHnqA0t4AmZ5UxiIMJusJWztZhtIEk-91pjXDV21jZujcog2Q2IAevjEVAGcwZQIxAMD0suBPdS11zgqNvekq-22kqRbjvYTlVCQar2fldRzttbPobSqQUaS2h93OdNNdHgIwSgKtxX5Idx4MTOCC4jK_9BIQ9ZHNiQITh-e-ECS3DvyMyR5C9yElWvxdPfoKa8u6.85199cc0-af03-4a6c-a045-65a36b4dac12-ed0275ec-92ea-437b-aeea-bf731f66bf97",
+            "Id": "85199cc0-af03-4a6c-a045-65a36b4dac12-ed0275ec-92ea-437b-aeea-bf731f66bf97",
+            "ScoreAttributes": {
+                "ScoreConfidence": "MEDIUM"
+            },
+            "Type": "DOCUMENT"
+        },
+        {
+            "AdditionalAttributes": [],
+            "DocumentAttributes": [
+                {
+                    "Key": "_source_uri",
+                    "Value": {
+                        "StringValue": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9800-cl-wireless-controller-cloud/nb-06-cat9800-cl-cloud-wirel-data-sheet-ctp-en.pdf"
+                    }
+                },
+                {
+                    "Key": "_excerpt_page_number",
+                    "Value": {
+                        "LongValue": 11
+                    }
+                }
+            ],
+            "DocumentExcerpt": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 13,
+                        "EndOffset": 21,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 33,
+                        "EndOffset": 41,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 136,
+                        "EndOffset": 144,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 190,
+                        "EndOffset": 198,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 210,
+                        "EndOffset": 214,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 254,
+                        "EndOffset": 262,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "...multisite upgrades: The Cisco Catalyst 9800-\n\n\nCL Wireless Controller for Cloud comes equipped with intelligent rolling access point upgrades to \n\n\nsimplify network operations. Multisite upgrades can now be done in stages, and access points can be \n\n\nupgraded intelligently without restarting..."
+            },
+            "DocumentId": "nb-06-cat9800-cl-cloud-wirel-data-sheet-ctp-en.pdf",
+            "DocumentTitle": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 6,
+                        "EndOffset": 14,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "Cisco Catalyst 9800-CL Wireless Controller "
+            },
+            "DocumentURI": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9800-cl-wireless-controller-cloud/nb-06-cat9800-cl-cloud-wirel-data-sheet-ctp-en.pdf",
+            "FeedbackToken": "AYADeO1nnHFRP8xbwjvI-SbxnFAAXwABABVhd3MtY3J5cHRvLXB1YmxpYy1rZXkAREEvMmJIOVZ6NVE3R0NNaTBoRGZIM0JndkJGd3RlVlI5YmlhVHNHN1JrdTlOV3gzUk44R2wxd2V1K0szWm5yTGpnQT09AAEAB2F3cy1rbXMAS2Fybjphd3M6a21zOnVzLXdlc3QtMjoxNDk0MDA5NDM5NTk6a2V5LzUyN2YwMjRhLTUyMDktNDI4NC1iOTYwLTJhMjYxMzQxNWNkNgC4AQIBAHhqM9DCcEDFf2jxMJAnxR-EnHviOG8et-197ZTI2QllnQFWd00gBjDEunu3W7V5eAH5AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2GCLOCr59B3zFGI6AgEQgDtdVkjSBIcEwfFIa7WtagQVrB_7Q3VHvb-S50o5ehCsknMNUo8jmZ3PzHcT7nP-hpCv6G9DMErhRoxXKwIAAAAADAAAEAAAAAAAAAAAAAAAAADnM7wMLNNf9N-gH8Q37RgC_____wAAAAEAAAAAAAAAAAAAAAEAAAF2WiRdWMuHWptOdiu6WV7LDpgmlmfkK3eMVdoUoTbL7Q91h7WmPWEqPe8mlRsP1wpiPRDm7NtC0R8wcXJrKyuXP_6gH1fZrfdtgyWKWPBN8HbAqnI8dPvmgV0T0o2u66y3HUyRo8hsXOyx4woqfVt_eo8Nx0NPQoLP7psyidm14TjolAantdjQZXyLLXS-Vh7SONxpl9fSUmI4dvhrzl7nt1VPxg4Esh01ZYz_-zCm0NpGG33_QwZGJuND3nAWJm3RK8PvDWaTOt_ZrLHXLt2AbOLISHxDglBVUpRMpsLuZVuA1HjoqjBooSSXsqL5eWa2HRfx3bAj1TmFmoUikqR6aWCUFzfjeimJQl9IDjTnUL5LCoMk2Nl9RtNDOHAZ7v8oneD2XIukXjDnHOQqSAGZHuGiihdoil8gwFIl-KNdvD32aEeW87fdfb05AdAvftlLVsYAgSXTEMPLSCStHnqA0t4AmZ5UxiIMJusJWztZhtIEk-91pjXDV21jZujcog2Q2IAevjEVAGcwZQIxAMD0suBPdS11zgqNvekq-22kqRbjvYTlVCQar2fldRzttbPobSqQUaS2h93OdNNdHgIwSgKtxX5Idx4MTOCC4jK_9BIQ9ZHNiQITh-e-ECS3DvyMyR5C9yElWvxdPfoKa8u6.85199cc0-af03-4a6c-a045-65a36b4dac12-91796efc-d9ec-445c-ae4e-1c766d61baba",
+            "Id": "85199cc0-af03-4a6c-a045-65a36b4dac12-91796efc-d9ec-445c-ae4e-1c766d61baba",
+            "ScoreAttributes": {
+                "ScoreConfidence": "MEDIUM"
+            },
+            "Type": "DOCUMENT"
+        },
+        {
+            "AdditionalAttributes": [],
+            "DocumentAttributes": [
+                {
+                    "Key": "_source_uri",
+                    "Value": {
+                        "StringValue": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9800-series-wireless-controllers/nb-06-cat9800-wirel-cont-data-sheet-ctp-en.pdf"
+                    }
+                },
+                {
+                    "Key": "_excerpt_page_number",
+                    "Value": {
+                        "LongValue": 12
+                    }
+                }
+            ],
+            "DocumentExcerpt": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 9,
+                        "EndOffset": 17,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 63,
+                        "EndOffset": 71,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 83,
+                        "EndOffset": 87,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 124,
+                        "EndOffset": 132,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    },
+                    {
+                        "BeginOffset": 222,
+                        "EndOffset": 230,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "...point upgrades to simplify network \n\n\noperations. Multisite upgrades can now be done in stages, and access points can be upgraded \n\n\nintelligently without restarting the entire network. \n\n\n● Standby monitoring of Cisco Catalyst 9800 Wireless Controllers in high-availability mode enables..."
+            },
+            "DocumentId": "nb-06-cat9800-wirel-cont-data-sheet-ctp-en.pdf",
+            "DocumentTitle": {
+                "Highlights": [
+                    {
+                        "BeginOffset": 6,
+                        "EndOffset": 14,
+                        "TopAnswer": false,
+                        "Type": "STANDARD"
+                    }
+                ],
+                "Text": "Cisco Catalyst 9800-40 Wireless Controller "
+            },
+            "DocumentURI": "https://www.cisco.com/c/en/us/products/collateral/wireless/catalyst-9800-series-wireless-controllers/nb-06-cat9800-wirel-cont-data-sheet-ctp-en.pdf",
+            "FeedbackToken": "AYADeO1nnHFRP8xbwjvI-SbxnFAAXwABABVhd3MtY3J5cHRvLXB1YmxpYy1rZXkAREEvMmJIOVZ6NVE3R0NNaTBoRGZIM0JndkJGd3RlVlI5YmlhVHNHN1JrdTlOV3gzUk44R2wxd2V1K0szWm5yTGpnQT09AAEAB2F3cy1rbXMAS2Fybjphd3M6a21zOnVzLXdlc3QtMjoxNDk0MDA5NDM5NTk6a2V5LzUyN2YwMjRhLTUyMDktNDI4NC1iOTYwLTJhMjYxMzQxNWNkNgC4AQIBAHhqM9DCcEDFf2jxMJAnxR-EnHviOG8et-197ZTI2QllnQFWd00gBjDEunu3W7V5eAH5AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2GCLOCr59B3zFGI6AgEQgDtdVkjSBIcEwfFIa7WtagQVrB_7Q3VHvb-S50o5ehCsknMNUo8jmZ3PzHcT7nP-hpCv6G9DMErhRoxXKwIAAAAADAAAEAAAAAAAAAAAAAAAAADnM7wMLNNf9N-gH8Q37RgC_____wAAAAEAAAAAAAAAAAAAAAEAAAF2WiRdWMuHWptOdiu6WV7LDpgmlmfkK3eMVdoUoTbL7Q91h7WmPWEqPe8mlRsP1wpiPRDm7NtC0R8wcXJrKyuXP_6gH1fZrfdtgyWKWPBN8HbAqnI8dPvmgV0T0o2u66y3HUyRo8hsXOyx4woqfVt_eo8Nx0NPQoLP7psyidm14TjolAantdjQZXyLLXS-Vh7SONxpl9fSUmI4dvhrzl7nt1VPxg4Esh01ZYz_-zCm0NpGG33_QwZGJuND3nAWJm3RK8PvDWaTOt_ZrLHXLt2AbOLISHxDglBVUpRMpsLuZVuA1HjoqjBooSSXsqL5eWa2HRfx3bAj1TmFmoUikqR6aWCUFzfjeimJQl9IDjTnUL5LCoMk2Nl9RtNDOHAZ7v8oneD2XIukXjDnHOQqSAGZHuGiihdoil8gwFIl-KNdvD32aEeW87fdfb05AdAvftlLVsYAgSXTEMPLSCStHnqA0t4AmZ5UxiIMJusJWztZhtIEk-91pjXDV21jZujcog2Q2IAevjEVAGcwZQIxAMD0suBPdS11zgqNvekq-22kqRbjvYTlVCQar2fldRzttbPobSqQUaS2h93OdNNdHgIwSgKtxX5Idx4MTOCC4jK_9BIQ9ZHNiQITh-e-ECS3DvyMyR5C9yElWvxdPfoKa8u6.85199cc0-af03-4a6c-a045-65a36b4dac12-24854446-aef2-4e20-b2fd-c69cf997e160",
+            "Id": "85199cc0-af03-4a6c-a045-65a36b4dac12-24854446-aef2-4e20-b2fd-c69cf997e160",
+            "ScoreAttributes": {
+                "ScoreConfidence": "MEDIUM"
+            },
+            "Type": "DOCUMENT"
+        }
+    ],
+    "TotalNumberOfResults": 46
 }
